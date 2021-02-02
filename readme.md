@@ -1,6 +1,6 @@
 # Dev Quotes
 
-This project documents quotes from many famous software developers.
+This project documents quotes from come famous software developers.
 
 # Background
 
